@@ -8,6 +8,7 @@
           "blocks": [
             "lecture-introduction-to-python",
             "lecture-understanding-variables-and-data-types",
+            "lecture-python-references-and-mutability",
             "workshop-report-card-printer",
             "lecture-introduction-to-python-strings",
             "workshop-employee-profile-generator",

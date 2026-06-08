@@ -1,0 +1,21 @@
+{
+  "isUpcomingChange": false,
+  "dashedName": "lecture-python-references-and-mutability",
+  "helpCategory": "Python",
+  "blockLayout": "challenge-list",
+  "challengeOrder": [
+    {
+      "id": "6a03f5d143c8688a9265c0a1",
+      "title": "Understanding Variable References and Scope"
+    },
+    {
+      "id": "6a03f5d143c8688a9265c0a2",
+      "title": "Mutability vs. Immutability"
+    },
+    {
+      "id": "6a03f5d143c8688a9265c0a3",
+      "title": "Assignment vs. Shallow Copy vs. Deep Copy"
+    }
+  ],
+  "blockLabel": "lecture"
+}
